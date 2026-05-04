@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Olenichev;Ivan;;;
+FN:Ivan Olenichev
+ORG:WTP — Welcome To Paradise;
+TITLE:Founder & CEO
+EMAIL;TYPE=INTERNET,PREF:ivan@wtpbrokers.com
+URL;TYPE=Personal:https://ceo.wtp.ae
+URL;TYPE=Work:https://wtp.ae
+X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/iolenichev/
+X-SOCIALPROFILE;type=telegram:https://t.me/ivanborodach
+NOTE:UAE execution partner for HNWI relocation\, banking\, company setup\, residency\, real estate and compliance. Direct line to the CEO.
+ADR;TYPE=WORK:;;Dubai;;;;United Arab Emirates
+END:VCARD
